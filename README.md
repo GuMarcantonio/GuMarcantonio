@@ -4,7 +4,7 @@
      -💡 Interessado em lógica de programação, desenvolvimento web e soluções inovadoras.
 - 🌱 - **Lógica de Programação** para fortalecer minha base como desenvolvedor.
 - **HTML e CSS** para criar um portfólio atrativo e funcional.
-- 💞️ Estou procurando colaborar em
+- 💞️ Estou procurando trabalhar com a AWS tirei minha primeira certificação a Practitioner 
 - Projetos que me permitam aplicar e expandir meus conhecimentos.
 - Equipes focadas em desenvolvimento web e programação.
 - 📫 Como entrar em contato comigo
